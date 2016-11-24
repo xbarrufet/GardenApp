@@ -230,9 +230,9 @@ var sampleData = function() {
 
 
     var user1 = {
-        email: "xbarrufetm@gmail.com",
+        email: "xavier.boronat@gmail.com",
         password:"1234",
-        name: "Xavier Barrufet",
+        name: "Xavier Boronat",
         type: "GARDEN",
         fakeId:"999ae629287af8eb1a2f4c0a"
     }
