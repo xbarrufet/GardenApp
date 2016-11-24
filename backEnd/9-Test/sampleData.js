@@ -63,9 +63,9 @@ var sampleData = function() {
     };
     
     var clientGarden21 = {
-        name:"Daniel Franco",
+        name:"Daniel Martin",
         clientAddress: {
-            address: "C/ Jaume I 40 6º 3º",
+            address: "C/ Boronat 12 2º 1º",
             city:"Montcada",
             province:"Barcelona",
             PO:"08110"
